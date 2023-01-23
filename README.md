@@ -1,5 +1,5 @@
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Ham%20Geonwook&fontAlignY=40&animation=twinkling&fontSize=50&theme=dark)
+<!-- 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Ham%20Geonwook&fontAlignY=40&animation=twinkling&fontSize=50&theme=dark) -->
 
 ![Ham Geonwoook's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomy8964&show_icons=true&theme=dark)
 ------------------------------
