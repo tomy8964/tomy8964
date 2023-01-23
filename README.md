@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Ham%20Geonwook&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Ham%20Geonwook&fontAlignY=40&fontSize=50&theme=radical)
 
 📫 How to reach me: tomy8964@naver.com
 
