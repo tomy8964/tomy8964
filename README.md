@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Ham%20Geonwook&fontAlignY=40&animation=twinkling&fontSize=50&theme=dark)
 
-![Ham Geonwoook's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomy8964&show_icons=true&theme=dark)
+![Ham Geonwoook's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomy8964&show_icons=true&theme=dark&width="42%")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomy8964&layout=compact&theme=dark&width="42%")](https://github.com/anuraghazra/github-readme-stats)
 ------------------------------
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomy8964&theme=dark)](https://git.io/streak-stats)
