@@ -1,17 +1,20 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Ham%20Geonwook&fontAlignY=40&animation=twinkling&fontSize=50&theme=dark)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomy8964&count_bg=%23818181&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--![test](https://port-0-githubtest-6w1j2alm1y5up7.sel5.cloudtype.app/api/tomy8964)
 ---------------------------
 -->
 ![Ham Geonwoook's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomy8964&show_icons=true&theme=dark)
+------------------------------
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomy8964&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ------------------------------
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tomy8964)](https://solved.ac/tomy8964/)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomy8964&theme=dark)](https://git.io/streak-stats)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomy8964&count_bg=%23818181&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ------------------------------
-------------------------------
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tomy8964)](https://solved.ac/tomy8964/)
+----
 📫 How to reach me: tomy8964@naver.com   
 
 😄 [가오리의 개발 블로그](https://velog.io/@tomy8964)    
