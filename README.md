@@ -1,3 +1,4 @@
+[이력서 보러 가기](https://tomy8964.notion.site/89b411103c1345e1b907951a5f41aad7)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Ham%20Geonwook&fontAlignY=40&animation=twinkling&fontSize=50&theme=dark)
 
