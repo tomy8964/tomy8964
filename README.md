@@ -1,4 +1,3 @@
-[이력서 보러 가기](https://tomy8964.notion.site/89b411103c1345e1b907951a5f41aad7)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Ham%20Geonwook&fontAlignY=40&animation=twinkling&fontSize=50&theme=dark)
 
@@ -23,6 +22,8 @@
 📫 How to reach me: tomy8964@naver.com   
 
 😄 [가오리의 개발 블로그](https://velog.io/@tomy8964)    
+
+👻 [가오리의 이력서](https://tomy8964.notion.site/89b411103c1345e1b907951a5f41aad7)
 
 🌱 I’m currently learning   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 
