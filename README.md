@@ -16,7 +16,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tomy8964)](https://solved.ac/tomy8964/)
 ------------------------------
-![Programmers Badge](https://raw.githubusercontent.com/tomy8964/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1)
+![Programmers Badge](https://raw.githubusercontent.com/tomy8964/Programmers_Badge_Generator/main/result/result.svg)
 
 ----
 📫 How to reach me: tomy8964@naver.com   
