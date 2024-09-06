@@ -1,4 +1,3 @@
-<div style="background-color:black">
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Ham%20Geonwook&fontAlignY=40&animation=twinkling&fontSize=50&theme=dark)
 
@@ -91,4 +90,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
