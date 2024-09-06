@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Ham%20Geonwook&fontAlignY=40&animation=twinkling&fontSize=50&theme=dark)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Ham%20Geonwook&fontAlignY=50&animation=twinkling&fontSize=50&theme=transparent)
 
 
 
@@ -48,11 +48,11 @@
 
 ## <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"> GitHub
 
-![Ham Geonwoook's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomy8964&show_icons=true&theme=dark)
+![Ham Geonwoook's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomy8964&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomy8964&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomy8964&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomy8964&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomy8964&theme=transparent)](https://git.io/streak-stats)
 
 ## <img width="4%" src="./image/image-1.png"> 백준 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tomy8964)](https://solved.ac/tomy8964/)
