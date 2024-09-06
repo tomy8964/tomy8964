@@ -56,7 +56,6 @@
 
 ## <img width="4%" src="./image/image-1.png"> 백준 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tomy8964)](https://solved.ac/tomy8964/)
-------------------------------
 
 ## <img width="4%" src="./image/programmers-logo-dark-1.png"> [프로그래머스 랭킹 뱃지](https://github.com/tomy8964/Programmers_Badge_Generator)
 - 프로그래머스 랭킹 뱃지를 svg 형태로 제공하는 자바 프로젝트
@@ -65,7 +64,7 @@
 
 ![Programmers Badge](https://raw.githubusercontent.com/tomy8964/Programmers_Badge_Generator/main/result/result.svg?cache_buster=TIMESTAMP)
 
-------------------------------
+
 ## <img width="8%" src="./image/image-2.png"> [개발 블로그](https://velog.io/@tomy8964)    
 - 기간 : 2023.11.21 ~ (진행 중)
 - 게시글 수 : 298 ~ (진행 중)
@@ -74,7 +73,7 @@
 
 ## 👻 [이력서](https://tomy8964.notion.site/89b411103c1345e1b907951a5f41aad7)
 
-## 📫 How to reach me: tomy8964@naver.com   
+## 📫 How to reach me: [tomy8964@naver.com](mailto:tomy8964@naver.com)
 
 
 <!--
