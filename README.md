@@ -7,7 +7,13 @@
 
 ## ❤️ Final Vocabulury
 
-<p style = "font-size:25px">안녕하세요! 끝없이 <span style="color:red; font-weight: bold;">성장</span>하는 함건욱입니다</p>
+### 안녕하세요! 끝없이 <span style="color:red">성장</span>하는 함건욱입니다
+
+## 🏃‍♂️ Activity
+- 가천대학교 소프트웨어학과
+- 가천대학교 X 카카오엔터프라이즈 SW 아카데미 2기
+- 가천대 x Elastic Observability
+- 정보처리기사
 
 ## 🌱 I’m Currently Learning  
 <p align="center">
