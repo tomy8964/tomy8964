@@ -2,9 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Ham%20Geonwook&fontAlignY=40&animation=twinkling&fontSize=50&theme=dark)
 
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomy8964&count_bg=%23818181&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## ❤️ Final Vocabulury
 
-### **성장**
+<p style = "font-size:25px">안녕하세요! 끝없이 <span style="color:red; font-weight: bold;">성장</span>하는 함건욱입니다</p>
 
 ## 🌱 I’m Currently Learning  
 <p align="center">
@@ -45,11 +48,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomy8964&theme=dark)](https://git.io/streak-stats)
 
-## <img width="4%" src="image-1.png"> 백준 티어
+## <img width="4%" src="./image/image-1.png"> 백준 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tomy8964)](https://solved.ac/tomy8964/)
 ------------------------------
 
-## <img width="4%" src="programmers-logo-dark-1.png"> [프로그래머스 랭킹 뱃지](https://github.com/tomy8964/Programmers_Badge_Generator)
+## <img width="4%" src="./image/programmers-logo-dark-1.png"> [프로그래머스 랭킹 뱃지](https://github.com/tomy8964/Programmers_Badge_Generator)
 - 프로그래머스 랭킹 뱃지를 svg 형태로 제공하는 자바 프로젝트
 - 백준 허브와 연동하여 프로그래머스에서 문제를 풀면 자동으로 프로그래머스 랭킹 뱃지를 생성 및 업데이트합니다.
 - 깃허브 프로필에 뱃지를 등록할 수 있습니다.
@@ -57,18 +60,16 @@
 ![Programmers Badge](https://raw.githubusercontent.com/tomy8964/Programmers_Badge_Generator/main/result/result.svg?cache_buster=TIMESTAMP)
 
 ------------------------------
-## <img width="8%" src="image-2.png"> [개발 블로그](https://velog.io/@tomy8964)    
+## <img width="8%" src="./image/image-2.png"> [개발 블로그](https://velog.io/@tomy8964)    
 - 기간 : 2023.11.21 ~ (진행 중)
 - 게시글 수 : 298 ~ (진행 중)
   
-<img width="85%" src="https://velog-readme-stats.vercel.app/api?name=tomy8964&color=dark">
+<img width="50%" src="https://velog-readme-stats.vercel.app/api?name=tomy8964&color=dark">
 
 ## 👻 [이력서](https://tomy8964.notion.site/89b411103c1345e1b907951a5f41aad7)
 
 ## 📫 How to reach me: tomy8964@naver.com   
 
-
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomy8964&count_bg=%23818181&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!--
 **tomy8964/tomy8964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
