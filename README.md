@@ -61,7 +61,7 @@
 - 기간 : 2023.11.21 ~ (진행 중)
 - 게시글 수 : 298 ~ (진행 중)
   
-<img width="100%" src="https://velog-readme-stats.vercel.app/api?name=tomy8964&color=dark">
+<img width="85%" src="https://velog-readme-stats.vercel.app/api?name=tomy8964&color=dark">
 
 ## 👻 [이력서](https://tomy8964.notion.site/89b411103c1345e1b907951a5f41aad7)
 
