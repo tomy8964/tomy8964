@@ -3,13 +3,14 @@
 
 
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomy8964&count_bg=%23818181&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomy8964&count_bg=%23818181&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🌞 About Me
 
 안녕하세요! (세울) 건 (아침 해) 욱, 아침 해 🌞를 세우는 함건욱입니다.
 
 사랑하는 사람과 행복한 가정을 꾸리고 제가 좋아하는 일을 하며 살기 위해 노력하고 있습니다. 
+
 
 <details>
 <summary> ISTP - 만능 재주꾼, 장인</summary>
@@ -26,8 +27,7 @@
 
 ## ❤️ Final Vocabulury
 
-<p><span style="color:red">**효율**</span>입니다.</p>
-<p> 최소한의 노력으로 최대한의 성과를 얻기 위해 항상 생각하며 노력합니다.</p>
+목숨과도 바꿀 수 있는 저의 마지막 어휘는 <span style="color:red">**효율**</span>입니다. 최소한의 노력으로 최대한의 성과를 얻기 위해 항상 생각하며 노력합니다. 어떠한 일을 진행할 때, 선택지를 나열하고 그 중 가장 최대의 효율을 낼 수 있는 선택지를 선택합니다.
 
 
 
