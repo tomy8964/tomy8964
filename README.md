@@ -35,8 +35,40 @@
 
 ## 🏃‍♂️ Activity
 - 가천대학교 소프트웨어학과
-- 가천대학교 X 카카오엔터프라이즈 SW 아카데미 2기
-- 가천대 x Elastic Observability
+  
+- <details>
+  <summary> 가천대학교 카카오엔터프라이즈 SW 아카데미 2기</summary>
+    <div markdown="1">
+    
+    - 기간: 2023.03.02 ~ 2023.08.31 (6 개월)
+    - 참여 기업: `KaKao Enterprise`, `DKTechin`, `ExnTu`의 전문가 10명
+    - 기업에서 대학 AI‧소프트웨어학부에 부트캠프형 소프트웨어 아카데미를 개설
+    - 소프트웨어 이론과 프로젝트 중심 훈련을 통해 단순 코딩 기술 이상의 인력 양성
+    - 활동 내역
+        - 카카오 클라우드 기반 설문 관리 서비스 `WaveForm` 백엔드 개발
+        - 카카오 클라우드 기반 사내 릴리즈 노트 공유 시스템 `우리누리` 프론트엔드 개발
+        - `데이터관리기술`, `시스템아키텍처`, `챗봇` 강의 수강
+</details>
+
+- <details>
+  <summary> 가천대 x Elastic Observability</summary>
+    <div markdown="1">
+    
+    - 기간: 2023.08.21 ~ 2023.08.27
+    - 참여 기업: `AWS`, `Elastic`, `LLOYDK`
+    - 대회 설명: `Observability`를 활용한 데이터 분석
+        - 운영 중인 `App/Web` 환경 모니터링 및 `Dashboard` 구축
+        - 제공되는 데이터를 바탕으로 `Metric` 분석 `Dashboard` 구축
+        - `Multi Cloud` 환경 모니터링 `Dashboard` 구축
+        - 다양한 `Cloud` 환경의 `Log`를 수집하여 통합 `Dashboard` 구축
+    - 활동 내역
+        - 파이썬 프로젝트인 AI 투기장을 `EC2`에 올려서 로그와 `metric` 정보 추출
+        - `Elastic Agent`를 통해 정보를 추출하고 대시보드화
+        - 어느 분야에서 어느 AI가 많은 선택을 받았는지 등의 정보 시각화
+        - `EC2`의 `metric` 정보를 추출하여 `cpu 사용량`과 `memory 사용량`이 임계치를 넘으면 `slack과 메일`로 알림 설정
+    </div>
+</details>
+
 - 정보처리기사
 
 ## 🌱 I’m Currently Learning  
@@ -176,7 +208,82 @@
   
 <img width="50%" src="https://velog-readme-stats.vercel.app/api?name=tomy8964&color=dark">
 
+ - [[Spring + QueryDsl] DB 쿼리 시 발생하는 N+1 문제 해결 및 성능 개선](https://velog.io/@tomy8964/Spring-QueryDsl-DB-쿼리-시-발생하는-N1-문제-해결-및-성능-개선)
+
+ - [[Spring] 왜 Filter에서 JWT 인증을 처리하는가?](https://velog.io/@tomy8964/Spring-왜-Filter에서-JWT-인증을-처리하는가)
+
+- [[Spring] REST API 통신 시 사용해야 할 HTTP 클라이언트 RestTemplate vs WebClient](https://velog.io/@tomy8964/Spring-REST-API-통신-시-사용해야-할-HTTP-클라이언트-RestTemplate-vs-WebClient)
+
+ - [[Spring] MSA 아키텍처에서 Redis를 활용한 분산락 적용을 Spring AOP와 @Annotation을 활용해 재사용성 높게 적용하는 방법](https://velog.io/@tomy8964/MSA-아키텍처에서-Redis를-활용한-분산락-적용을-Spring-AOP를-사용해-재사용성-높게-적용하는-방법)
+
+ - [[Spring] MSA 아키텍처의 백엔드 프로젝트 테스트 방법](https://velog.io/@tomy8964/Spring-MVC-패턴의-백엔드-프로젝트-테스트-방법)
+
+ - [[Spring] OAuth Kakao, Git, Google 로그인 다형성을 활용하여 객체 지향적으로 리팩토링 하기](https://velog.io/@tomy8964/Spring-OAuthService-다형성을-활용하여-객체-지향적으로-리팩토링-하기)
+
+
+ - [오라클 클라우드(db - kafka) ← → 로컬(druid - superset)](https://velog.io/@tomy8964/오라클-클라우드db-kafka-로컬druid-superset-8xjreh72)
+
+- [3티어 기반 HAProxy 및 Keepalived 적용](https://velog.io/@tomy8964/3티어-기반-HAProxy-및-Keepalived-적용)
+
+- [gitlab-jenkins CI / CD를 위한 시스템 아키텍처 구축실습](https://velog.io/@tomy8964/gitlab-jenkins-CI-CD를-위한-시스템-아키텍처-구축실습)
+
 ## 👻 [이력서](https://tomy8964.notion.site/89b411103c1345e1b907951a5f41aad7)
+
+## 💻 강의
+
+### 자바
+
+[JAVA-공부-김영한의-자바-기본 수료증](https://www.inflearn.com/certificate/387741-332506-12355710)
+
+→ [JAVA-공부-김영한의-자바-기본 정리](https://velog.io/@tomy8964/series/JAVA-공부-김영한의-자바-기본)
+
+[JAVA-공부-김영한의-자바-중급-1편 수료증](https://www.inflearn.com/certificate/387741-333308-12738634)
+
+→ [JAVA-공부-김영한의-자바-중급-1편 정리](https://velog.io/@tomy8964/series/JAVA-공부-김영한의-자바-중급-1편)
+
+### 스프링
+
+[Spring-강의-스프링-핵심-원리-기본편 수료증](https://www.inflearn.com/certificate/387741-325969-11003002)
+
+→ [Spring-강의-스프링-핵심-원리-기본편 정리](https://velog.io/@tomy8964/series/Spring-강의-스프링-핵심-원리-기본편)
+
+[Spring-강의-스프링-MVC-1편-백엔드-웹-개발-핵심-기술 수료증](https://www.inflearn.com/certificate/387741-326674-11003004)
+
+→ [Spring-강의-스프링-MVC-1편-백엔드-웹-개발-핵심-기술 정리](https://velog.io/@tomy8964/series/Spring-강의-스프링-MVC-1편-백엔드-웹-개발-핵심-기술)
+
+[Spring-강의-스프링-MVC-2편-백엔드-웹-개발-활용-기술 수료증](https://www.inflearn.com/certificate/387741-327260-11003001)
+
+→ [Spring-강의-스프링-MVC-2편-백엔드-웹-개발-활용-기술 정리](https://velog.io/@tomy8964/series/Spring-강의-스프링-MVC-2편-백엔드-웹-개발-활용-기술)
+
+[Spring-강의-스프링-DB-1편-데이터-접근-핵심-원리 수료증](https://www.inflearn.com/certificate/387741-328723-11003005)
+
+→ [Spring-강의-스프링-DB-1편-데이터-접근-핵심-원리 정리](https://velog.io/@tomy8964/series/Spring-강의-스프링-DB-1편-데이터-접근-핵심-원리)
+
+[Spring-강의-스프링-DB-2편-데이터-접근-활용-기술 수료증](https://www.inflearn.com/certificate/387741-328990-11003003)
+
+→ [Spring-강의-스프링-DB-2편-데이터-접근-활용-기술 정리](https://velog.io/@tomy8964/series/Spring-강의-스프링-DB-2편-데이터-접근-활용-기술)
+
+### 스프링 부트와 JPA
+
+[스프링-부트와-JPA-강의-자바-ORM-표준-JPA-프로그래밍-기본편 수료증](https://www.inflearn.com/certificate/387741-324109-11571217)
+
+→ [스프링-부트와-JPA-강의-자바-ORM-표준-JPA-프로그래밍-기본편 정리](https://velog.io/@tomy8964/series/스프링-부트와-JPA-강의-자바-ORM-표준-JPA-프로그래밍-기본편)
+
+[스프링-부트와-JPA-스프링-부트와-JPA-활용1-웹-애플리케이션-개발 수료증](https://www.inflearn.com/certificate/387741-324119-11571216)
+
+→ [스프링-부트와-JPA-스프링-부트와-JPA-활용1-웹-애플리케이션-개발 정리](https://velog.io/@tomy8964/스프링-부트와-JPA-스프링-부트와-JPA-활용1-웹-애플리케이션-개발)
+
+[스프링-부트와-JPA-스프링-부트와-JPA-활용2-API-개발과-성능-최적화 수료증](https://www.inflearn.com/certificate/387741-324214-11571215)
+
+→ [스프링-부트와-JPA-스프링-부트와-JPA-활용2-API-개발과-성능-최적화 정리](https://velog.io/@tomy8964/스프링-부트와-JPA-스프링-부트와-JPA-활용2-API-개발과-성능-최적화)
+
+[스프링-부트와-JPA-스프링-데이터-JPA 수료증](https://www.inflearn.com/certificate/387741-324474-11571214)
+
+→ [스프링-부트와-JPA-스프링-데이터-JPA 정리](https://velog.io/@tomy8964/스프링-부트와-JPA-스프링-데이터-JPA)
+
+[스프링-부트와-JPA-Querydsl 수료증](https://www.inflearn.com/certificate/387741-324476-11571213)
+
+→ [스프링-부트와-JPA-Querydsl 정리](https://velog.io/@tomy8964/스프링-부트와-JPA-Querydsl)
 
 ## 📫 How to reach me: [tomy8964@naver.com](mailto:tomy8964@naver.com)
 
