@@ -3,11 +3,32 @@
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomy8964&count_bg=%23818181&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomy8964&count_bg=%23818181&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+
+## 🌞 About Me
+
+안녕하세요! (세울) 건 (아침 해) 욱, 아침 해 🌞를 세우는 함건욱입니다.
+
+사랑하는 사람과 행복한 가정을 꾸리고 제가 좋아하는 일을 하며 살기 위해 노력하고 있습니다. 
+
+<details>
+<summary> ISTP - 만능 재주꾼, 장인</summary>
+  <div markdown="1">
+  
+  > 과묵하며 절제된 호기심으로 인생을 관찰하고, 상황을 파악하는 민감성과 도구를 다루는 뛰어난 능력이 있습니다. 말수가 적으며, 논리적이고 합리적입니다. 사실적 자료를 정리/조직하기를 좋아하고, 인과관계나 객관적 원리에 관심이 많습니다. 눈치가 빠릅니다. 조용히 자기 일만 하고 있는 것처럼 보이지만 사실 주변 상황 파악도 다 하고 있습니다.
+  </div>
+</details>
+
+<br>
+
+축구와 컴퓨터 게임을 즐기며 냉면을 좋아하고 제 인생 영화는 어바웃 타임입니다. 
+
 
 ## ❤️ Final Vocabulury
 
-### 안녕하세요! 끝없이 <span style="color:red">성장</span>하는 함건욱입니다
+목숨과도 바꿀 수 있는 저의 마지막 어휘는 <span style="color:red">**효율**</span>입니다. 최소한의 노력으로 최대한의 성과를 얻기 위해 항상 생각하며 노력합니다.
+
+
 
 ## 🏃‍♂️ Activity
 - 가천대학교 소프트웨어학과
