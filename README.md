@@ -1,9 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Ham%20Geonwook&fontAlignY=50&animation=twinkling&fontSize=50&theme=transparent)
 
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomy8964&count_bg=%23818181&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## 👻 [이력서](https://tomy8964.notion.site/89b411103c1345e1b907951a5f41aad7)
 
 <p align="center">
 <img width = "50%" src="./image/KakaoTalk_20240909_113538340.jpg">
@@ -230,8 +230,6 @@
 - [3티어 기반 HAProxy 및 Keepalived 적용](https://velog.io/@tomy8964/3티어-기반-HAProxy-및-Keepalived-적용)
 
 - [gitlab-jenkins CI / CD를 위한 시스템 아키텍처 구축실습](https://velog.io/@tomy8964/gitlab-jenkins-CI-CD를-위한-시스템-아키텍처-구축실습)
-
-## 👻 [이력서](https://tomy8964.notion.site/89b411103c1345e1b907951a5f41aad7)
 
 ## 💻 강의
 
