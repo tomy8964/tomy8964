@@ -108,14 +108,14 @@
 ## 📑Projects
 
 <details>
-<summary> 카카오 클라우드 기반 MSA 아키텍처의 설문 관리 서비스 <WaveForm> - 개선 프로젝트</summary>
+<summary> GCP기반 MSA 아키텍처의 설문 관리 서비스 <WaveForm> - 개선 프로젝트</summary>
   <div markdown="1">
 
 - 기간 : 2023년 10월 2일 ~ 2024년 4월 (6 개월)
 - GitHub
-    - https://github.com/tomy8964/Swave_Survey_Update(`SurveyDocument`, `User`)
-    - https://github.com/tomy8964/argocd-back
-    - https://github.com/tomy8964/helm-charts.git
+    - [https://github.com/tomy8964/Swave_Survey_Update(`SurveyDocument`, `User`)](https://github.com/tomy8964/Swave_Survey_Update)
+    - [https://github.com/tomy8964/argocd-back](https://github.com/tomy8964/argocd-back)
+    - [https://github.com/tomy8964/helm-charts.git](https://github.com/tomy8964/helm-charts.git)
 - Notion : [<WaveForm> - 개선 프로젝트](https://www.notion.so/WaveForm-432627460d6d4328819a304958559f32?pvs=21)
 - 개요 : [카카오 클라우드 기반 MSA 아키텍처의 설문 관리 서비스 <WaveForm>](https://www.notion.so/MSA-WaveForm-d062a459e0cb4f16914d155a11e70bf5?pvs=21) 을 개선하기 위해 시작한 프로젝트입니다.
 - 기술 스택 : `SpringBoot, Spring Cloud Gateway, Spring Security, Gradle, JUnit5, Mockito, queryDsl, Docker, Kubernetes, GitHub, Jenkins, MySQL, MySQLOpretor, Prometheus, Grafana, Elastic, Kibana, Fluentd, GKE, GCP, Swagger, Redis, ArgoCD, Slack, nGrinder`
@@ -143,7 +143,7 @@
   </div>
 </details>
 <details>
-<summary> 카카오 클라우드 기반 MSA 아키텍처의 설문 관리 서비스 <WaveForm></summary>
+<summary> 온프라미스 기반 MSA 아키텍처의 설문 관리 서비스 <WaveForm></summary>
   <div markdown="1">
   
   - 기간 : 2023년 3월 2일 ~ 2023년 6월 9일 (3 개월)
@@ -169,7 +169,7 @@
   <div markdown="1">
   
   - 기간 : 2023년 7월 4일 ~ 2023년 8월 25일 (2 개월)
-- GitHub : https://github.com/SwaveReleaseNote
+- GitHub : [https://github.com/SwaveReleaseNote](https://github.com/SwaveReleaseNote)
 - Notion : [카카오 클라우드 기반 사내 릴리즈 노트 공유 시스템 - <우리누리>](https://www.notion.so/d1650af3ff2e4d6fa05a548f4e9a4441?pvs=21)
 - 기술 스택 : `TypeScript, Pnpm, Recoil, ReactQuery, Axios, Jest, Cypress, Jenkins, Github, Docker, Kubernetes, Kakao I Cloud, ArgoCD, Nginx, Slack, Jira, Figma, Swagger`
 - 개요 : 본 프로젝트는 카카오엔터프라이즈 가천 SW 아카데미 수료 중 진행한 카카오 클라우드 기반 사내 릴리즈 노트 공유 시스템이며`KaKao Enterprise`, `DKTechin`, `ExnTu` 에서 재직 중이신 전문가 10명에게 코드 리뷰 및 멘토링을 받았으며 저는 총 6명의 팀원 중 3명의 프론트엔드 팀에서 **FrontEnd 개발에 60%** 기여하였습니다.
@@ -233,8 +233,10 @@
 
 ## 💻 강의
 
-### 자바
-
+<details>
+<summary>자바</summary>
+  <div markdown="1">
+    
 [JAVA-공부-김영한의-자바-기본 수료증](https://www.inflearn.com/certificate/387741-332506-12355710)
 
 → [JAVA-공부-김영한의-자바-기본 정리](https://velog.io/@tomy8964/series/JAVA-공부-김영한의-자바-기본)
@@ -242,8 +244,12 @@
 [JAVA-공부-김영한의-자바-중급-1편 수료증](https://www.inflearn.com/certificate/387741-333308-12738634)
 
 → [JAVA-공부-김영한의-자바-중급-1편 정리](https://velog.io/@tomy8964/series/JAVA-공부-김영한의-자바-중급-1편)
+  </div>
+</details>
 
-### 스프링
+<details>
+<summary>스프링</summary>
+  <div markdown="1">
 
 [Spring-강의-스프링-핵심-원리-기본편 수료증](https://www.inflearn.com/certificate/387741-325969-11003002)
 
@@ -264,8 +270,12 @@
 [Spring-강의-스프링-DB-2편-데이터-접근-활용-기술 수료증](https://www.inflearn.com/certificate/387741-328990-11003003)
 
 → [Spring-강의-스프링-DB-2편-데이터-접근-활용-기술 정리](https://velog.io/@tomy8964/series/Spring-강의-스프링-DB-2편-데이터-접근-활용-기술)
+  </div>
+</details>
 
-### 스프링 부트와 JPA
+<details>
+<summary>스프링 부트와 JPA</summary>
+  <div markdown="1">
 
 [스프링-부트와-JPA-강의-자바-ORM-표준-JPA-프로그래밍-기본편 수료증](https://www.inflearn.com/certificate/387741-324109-11571217)
 
@@ -286,6 +296,8 @@
 [스프링-부트와-JPA-Querydsl 수료증](https://www.inflearn.com/certificate/387741-324476-11571213)
 
 → [스프링-부트와-JPA-Querydsl 정리](https://velog.io/@tomy8964/스프링-부트와-JPA-Querydsl)
+  </div>
+</details>
 
 ## 📫 How to reach me: [tomy8964@naver.com](mailto:tomy8964@naver.com)
 
