@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Ham%20Geonwook&fontAlignY=50&animation=twinkling&fontSize=50&theme=transparent)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomy8964&count_bg=%23818181&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -301,6 +300,9 @@
 
 ## 📫 How to reach me: [tomy8964@naver.com](mailto:tomy8964@naver.com)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/tomy8964">
+</a>
 
 <!--
 **tomy8964/tomy8964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
