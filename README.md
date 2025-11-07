@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Ham%20Geonwook&fontAlignY=50&animation=twinkling&fontSize=50&theme=transparent)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomy8964&count_bg=%23818181&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## 👻 [이력서](https://tomy8964.notion.site/89b411103c1345e1b907951a5f41aad7)
-
-<p align="center">
-<img width = "50%" src="./image/KakaoTalk_20240909_113538340.jpg">
-</p>
-
 ## 🌞 About Me
 
 안녕하세요! (세울) 건 (아침 해) 욱, 아침 해 🌞를 세우는 함건욱입니다.
@@ -35,44 +27,50 @@
 최소한의 노력으로 최대한의 성과를 얻기 위해 항상 생각하며 노력합니다. 어떠한 일을 진행할 때, 선택지를 나열하고 그 중 가장 최대의 효율을 낼 수 있는 선택지를 선택합니다.
 
 
+## 👻 이력서
 
-## 🏃‍♂️ Activity
-- 가천대학교 소프트웨어학과
-  
-- <details>
-  <summary> 가천대학교 카카오엔터프라이즈 SW 아카데미 2기</summary>
-    <div markdown="1">
-    
-    - 기간: 2023.03.02 ~ 2023.08.31 (6 개월)
-    - 참여 기업: `KaKao Enterprise`, `DKTechin`, `ExnTu`의 전문가 10명
-    - 기업에서 대학 AI‧소프트웨어학부에 부트캠프형 소프트웨어 아카데미를 개설
-    - 소프트웨어 이론과 프로젝트 중심 훈련을 통해 단순 코딩 기술 이상의 인력 양성
-    - 활동 내역
-        - 카카오 클라우드 기반 설문 관리 서비스 `WaveForm` 백엔드 개발
-        - 카카오 클라우드 기반 사내 릴리즈 노트 공유 시스템 `우리누리` 프론트엔드 개발
-        - `데이터관리기술`, `시스템아키텍처`, `챗봇` 강의 수강
-</details>
+[**블로그**](https://velog.io/@tomy8964/series) | [**GitHub**](https://github.com/tomy8964) | [**포트폴리오**](https://tomy8964.notion.site/portfolio) | **정보처리기사** 취득 | [**가천대학교 소프트웨어학과**](https://sw.gachon.ac.kr/cms/) 졸업 | **3.84**/4.5 | **3.9**/4.5
 
-- <details>
-  <summary> 가천대 x Elastic Observability</summary>
-    <div markdown="1">
-    
-    - 기간: 2023.08.21 ~ 2023.08.27
-    - 참여 기업: `AWS`, `Elastic`, `LLOYDK`
-    - 대회 설명: `Observability`를 활용한 데이터 분석
-        - 운영 중인 `App/Web` 환경 모니터링 및 `Dashboard` 구축
-        - 제공되는 데이터를 바탕으로 `Metric` 분석 `Dashboard` 구축
-        - `Multi Cloud` 환경 모니터링 `Dashboard` 구축
-        - 다양한 `Cloud` 환경의 `Log`를 수집하여 통합 `Dashboard` 구축
-    - 활동 내역
-        - 파이썬 프로젝트인 AI 투기장을 `EC2`에 올려서 로그와 `metric` 정보 추출
-        - `Elastic Agent`를 통해 정보를 추출하고 대시보드화
-        - 어느 분야에서 어느 AI가 많은 선택을 받았는지 등의 정보 시각화
-        - `EC2`의 `metric` 정보를 추출하여 `cpu 사용량`과 `memory 사용량`이 임계치를 넘으면 `slack과 메일`로 알림 설정
-    </div>
-</details>
+**Java**, **Spring Boot**, **JPA** | **MySQL**, **Redis** | **Jenkins**, ArgoCD | **Docker**, **k8s**, Prometheus, ELK |  AWS
 
-- 정보처리기사
+### 👔 경력
+
+**신한투자증권 인턴** (ICT기획운영부 | 2025.04 ~ 05)
+
+- **NHN Cloud** 환경에서 **Kubernetes 기반 3-Tier → MSA 아키텍처 전환**, 고가용성 구조 설계 및 구현
+- **Helm + ArgoCD 기반 GitOps 파이프라인** 구축으로 배포 신뢰성 및 재현성 확보
+- 멀티 Kubernetes 클러스터 운영 + Prometheus, Grafana 멀티 클러스터 모니터링
+
+### 🚀 프로젝트
+
+[**AWS MSA 기반 실시간 해외 공시 기반 트레이딩 시스템**](https://github.com/Pda-Final-Project) (2025.02 ~ 03 | **최우수상** 수상)
+
+- 공시 번역 파이프라인 최적화 (처리 속도 90% 단축, 10분 → 1분)
+- 대용량 공시 파일 저장 최적화 (S3 오프로딩)
+- EKS 없이 직접 Kubernetes 클러스터 구축
+- 초당 수백 건의 체결 데이터 처리 및 고가용성 인프라 설계
+- MySQL InnoDB Cluster 구축 및 읽기/쓰기 분리, 처리량 향상
+- Jenkins·GitHub·Docker·ArgoCD 기반 무중단 배포 파이프라인 구축
+
+[**GCP MSA 기반 설문 관리•분석 시스템**](https://github.com/tomy8964/Swave_Survey_Update) (2023.10 ~ 2024.04)
+
+- 핵심 병목 제거로 **TPS 60.4 → 848.1 (14배)** 향상
+- **Redis 분산락** 적용으로 동시 응답 제어 및 데이터 일관성 확보
+- **JWT 인증을 Spring Filter 레벨**로 처리해 인증 구조 단순화
+- **테스트 커버리지 100% (147건)** 달성, 안정성 검증 자동화
+- **Terraform 기반 GKE IaC 전환**, 기존 인프라 코드 관리 체계화
+- **Prometheus·Grafana·EFK 통합 모니터링 구축**, 지표 기반 성능 분석 및 경보 설정
+
+### 🚴‍♂️ 대외활동
+
+- [**신한투자증권 프로 디지털 아카데미 5기**](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1580&srchCategoryTypeCd=&courseMasterSeq=327&currentMenuId=900002001&utm_source=boottent&utm_medium=referral) (2024.09 ~ 2025.03 | 중간·최종 **최우수상**, **우수 수료자**)
+- [**가천대학교 x 카카오엔터프라이즈 SW 아카데미 2기**](https://www.gachon.ac.kr/kor/1148/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29yJTJGNDgwJTJGODIyOTQlMkZhcnRjbFZpZXcuZG8lM0Y%3D) (2023.03 ~ 08)
+- [**가천대 x Elastic Observability 해커톤**](https://www.gachon.ac.kr/pr/1443/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGcHIlMkY0NjQlMkY4OTU5MSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
+- [**Spring Cloud Config - AWS S3 searchPaths 기능 오픈소스**](https://github.com/spring-cloud/spring-cloud-config/issues/2812)
+- [**GitHub Programmers 랭킹 뱃지 자동 생성 오픈소스 운영**](https://github.com/tomy8964/Programmers_Badge_Generator)
+- [**가오리의 개발 블로그**](https://velog.io/@tomy8964/series) (인프런 김영한의 실전 자바 & Spring & SpringBoot + JPA 총 13개의 과정 수료)
+- 쿠버네티스 기반 관리형 Redis 서비스 개발 (2025.08)
+- 쿠버네티스 Deployment 실시간 모니터링 시스템 개발 (2025.01)
 
 ## 🌱 I’m Currently Learning  
 <p align="center">
@@ -104,87 +102,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 </p>
 
-## 📑Projects
 
-<details>
-<summary> GCP기반 MSA 아키텍처의 설문 관리 서비스 <WaveForm> - 개선 프로젝트</summary>
-  <div markdown="1">
-
-- 기간 : 2023년 10월 2일 ~ 2024년 4월 (6 개월)
-- GitHub
-    - [https://github.com/tomy8964/Swave_Survey_Update(`SurveyDocument`, `User`)](https://github.com/tomy8964/Swave_Survey_Update)
-    - [https://github.com/tomy8964/argocd-back](https://github.com/tomy8964/argocd-back)
-    - [https://github.com/tomy8964/helm-charts.git](https://github.com/tomy8964/helm-charts.git)
-- Notion : [<WaveForm> - 개선 프로젝트](https://www.notion.so/WaveForm-432627460d6d4328819a304958559f32?pvs=21)
-- 개요 : [카카오 클라우드 기반 MSA 아키텍처의 설문 관리 서비스 <WaveForm>](https://www.notion.so/MSA-WaveForm-d062a459e0cb4f16914d155a11e70bf5?pvs=21) 을 개선하기 위해 시작한 프로젝트입니다.
-- 기술 스택 : `SpringBoot, Spring Cloud Gateway, Spring Security, Gradle, JUnit5, Mockito, queryDsl, Docker, Kubernetes, GitHub, Jenkins, MySQL, MySQLOpretor, Prometheus, Grafana, Elastic, Kibana, Fluentd, GKE, GCP, Swagger, Redis, ArgoCD, Slack, nGrinder`
-- 객체 지향 설계 원칙의 단일 책임 원칙에 따라 `DTO <-> Entity` 변환 서비스 구현
-- 개방 - 폐쇄 원칙에 따라 `OAuth` 서버 `Provider` 추상화
-- `Spring Security` 와 `Filter` 를 활용한 `JWT` 인증 처리
-- `RestControllerAdvice` 를 이용한 전역 커스텀 에러 처리 메커니즘 구현
-- `RestTemplate`의 반복적인 인스턴스 생성 로직을 `WebCilent` 스프링 빈 등록을 통해 인스턴스 생성 비용 절감과 비동기적/논블로킹 방식으로 전환하여 성능 개선
-- 동시성 문제를 해결하기 위해 분산락의 개념을 도입하고, 이를 `AOP`를 통해 적용하여 관심사 분리
-- `QueryDsl` 를 이용한 동적 쿼리로 재사용성 증대 및 `fetch join` 와 `batch size` 적용을 통해 `N+1` 문제 해결
-- `MSA` 아키텍처를 고려하여 `Redis` 클로스터를 활용한 글로벌 캐시 적용
-- 캐싱 적용, `DB` 쿼리 개선, `DB` 인덱싱 수정, `DB` 커넥션 풀 조정, 비동기 처리 등 성능 최적화
-    - **TPS 60.4 → 841.4로 14 배에 달하는 성능 향상**
-- `MySQL Operator`를 활용하여 `Single Primary` 방식으로 `MySQL InnoDB` 클러스터를 관리하고, `MySQL Group Replication`을 실행
-- 커버리지 `100%` 를 목표로 `Mockito & JUnit5` 를 이용한 **113** 개의 단위 테스트 작성
-- `SpringBootTest` 를 이용한 **34** 개의 통합 테스트 코드를 통한 애플리케이션의 전반적인 기능 검증
-- `Swagger` 를 활용한 `API` 문서 자동화
-- `Google Cloud Platform` 으로 배포 환경 변경
-- `NginX` 로드밸런싱을 통해 시스템 가용성 증가
-- `GitHub - Jenkins - Docker - ArgoCD` `CI/CD` 파이프라인 구축하여 배포 자동화
-- `NFS`를 이용한 `DB` 백업 구현
-- `Prometheus & Grafana` , `EFK` 를 활용한 모니터링 시스템 구축
-- `Slack` 과의 연동을 통해 알림 도구를 구현하여 운영 효율성 개선
-- `Helm`, `TerraForm`  을 통해 인프라 및 서비스 리소스 관리를 자동화
-  </div>
-</details>
-<details>
-<summary> 온프라미스 기반 MSA 아키텍처의 설문 관리 서비스 <WaveForm></summary>
-  <div markdown="1">
-  
-  - 기간 : 2023년 3월 2일 ~ 2023년 6월 9일 (3 개월)
-- GitHub : [https://github.com/KEA-SWAVE-SURVEY](https://github.com/KEA-SWAVE-SURVEY/spring-gateway)
-- Notion : [카카오 클라우드 기반 MSA 아키텍처의 설문 관리 서비스 <WaveForm>](https://www.notion.so/MSA-WaveForm-d062a459e0cb4f16914d155a11e70bf5?pvs=21)
-- 기술 스택 : `SpringBoot, Spring Cloud Gateway, Gradle, JUnit5, queryDsl, Docker, Kubernetes, GitHub, Jenkins, MySQL, Redis, ArgoCD, Slack, nGrinder`
-- 개요 : 본 프로젝트는 카카오엔터프라이즈 가천 SW 아카데미 수료 중 진행한 카카오 클라우드 기반 MSA 아키텍처의 설문 관리 서비스이며 저는 총 6명의 팀원 중 3명의 백엔드 팀에서 **BackEnd 개발에 40% 기여했습니다.**
-- 역할
-    - 설문 응답, 분석의 전반적인 `CRUD` `API` 개발(전체 `API` 중 40%)
-    - `MSA` 아키텍처를 도입하면서 도메인 주도 설계(`DDD`)를 이용하여 모듈 분리
-    - `REST API`로 서비스들간의 통신 구현
-    - `Kubernetes` 상에 `Spring Cloud Gateway`, 설문 응답, 분석 서비스 배포
-    - `OAuth2` `API`를 이용한 `GitHub`와 `Google` 소셜 로그인 구현
-    - `Spring Security` 와 `JWT Token` 를 이용한 인증과 권한 관리
-    - `Redis`를 사용하여 데이터 캐싱 적용
-    - `nGrinder`를 통한 성능 테스트 수행
-    - `JUnit` `Mockito`를 사용한 테스트 작성
-- 기획 동기, 기존 제품 분석, 요구사항 분석, `WBS`, 다이어그램, 스토리 보드, `UI&UX`, `ERD`, `API` 명세서, 시스템 아키텍처까지 전반적인 `IT` 서비스 과정을 경험
-  </div>
-</details>
-<details>
-<summary> 카카오 클라우드 기반 사내 릴리즈 노트 공유 시스템 - <우리누리></summary>
-  <div markdown="1">
-  
-  - 기간 : 2023년 7월 4일 ~ 2023년 8월 25일 (2 개월)
-- GitHub : [https://github.com/SwaveReleaseNote](https://github.com/SwaveReleaseNote)
-- Notion : [카카오 클라우드 기반 사내 릴리즈 노트 공유 시스템 - <우리누리>](https://www.notion.so/d1650af3ff2e4d6fa05a548f4e9a4441?pvs=21)
-- 기술 스택 : `TypeScript, Pnpm, Recoil, ReactQuery, Axios, Jest, Cypress, Jenkins, Github, Docker, Kubernetes, Kakao I Cloud, ArgoCD, Nginx, Slack, Jira, Figma, Swagger`
-- 개요 : 본 프로젝트는 카카오엔터프라이즈 가천 SW 아카데미 수료 중 진행한 카카오 클라우드 기반 사내 릴리즈 노트 공유 시스템이며`KaKao Enterprise`, `DKTechin`, `ExnTu` 에서 재직 중이신 전문가 10명에게 코드 리뷰 및 멘토링을 받았으며 저는 총 6명의 팀원 중 3명의 프론트엔드 팀에서 **FrontEnd 개발에 60%** 기여하였습니다.
-- 역할
-    - `Git` 플로우 전략, `Github` 브랜치 컨벤션 및 `PR` 활성화
-    - 프론트엔드 팀 개발 공동 규칙(함수명, 모듈명, 패키지명, `Prettier`, `Eslint`) 적용
-    - `GitHub - Jenkins - Docker - ArgoCD` `CI/CD` 파이프라인 구축하여 배포 자동화
-    - `ReactQuery` 를 통한 프론트엔드 캐싱 적용
-    - `Cypress` `Jest` 를 통한 테스트 작성
-    - `Axios` 인스턴스 모듈화하여 에러 처리 및 통신 로직 관리
-    - 에러에 대한 공통 페이지 작성하여 에러 공통 처리
-- `데일리 스크럼`, `코드 리뷰`, `멘토링`, `PR`, `Jira` 를 통한 이슈 관리 등을 통한 체계적인 협업 진행
-- 프론트엔드라는 원하지 않았지만 주어진 업무에 최선을 다하는 것이 중요하다고 생각했습니다. 그 결과, 이 경험을 통해 문제를 다양한 시각에서 바라볼 수 있는 능력을 기르게 되었습니다.
-- 기획 동기, 기존 제품 분석, 요구사항 분석, `WBS`, 다이어그램, 스토리 보드, `UI&UX`, `ERD`, `API` 명세서, 시스템 아키텍처까지 전반적인 `IT` 서비스 과정을 경험
-  </div>
-</details>
 
 ## <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"> GitHub
 
@@ -198,105 +116,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tomy8964)](https://solved.ac/tomy8964/)
 
 ## <img width="4%" src="./image/programmers-logo-dark-1.png"> [프로그래머스 랭킹 뱃지](https://github.com/tomy8964/Programmers_Badge_Generator)
-- 프로그래머스 랭킹 뱃지를 svg 형태로 제공하는 자바 프로젝트
-- 백준 허브와 연동하여 프로그래머스에서 문제를 풀면 자동으로 프로그래머스 랭킹 뱃지를 생성 및 업데이트합니다.
-- 깃허브 프로필에 뱃지를 등록할 수 있습니다.
 
 ![Programmers Badge](https://raw.githubusercontent.com/tomy8964/Programmers_Badge_Generator/main/result/result.svg?cache_buster=TIMESTAMP)
 
-
-## <img width="8%" src="./image/image-2.png"> [개발 블로그](https://velog.io/@tomy8964)    
-- 기간 : 2023.11.21 ~ (진행 중)
-- 게시글 수 : 298 ~ (진행 중)
-  
-<img width="50%" src="https://velog-readme-stats.vercel.app/api?name=tomy8964&color=dark">
-
- - [[Spring + QueryDsl] DB 쿼리 시 발생하는 N+1 문제 해결 및 성능 개선](https://velog.io/@tomy8964/Spring-QueryDsl-DB-쿼리-시-발생하는-N1-문제-해결-및-성능-개선)
-
- - [[Spring] 왜 Filter에서 JWT 인증을 처리하는가?](https://velog.io/@tomy8964/Spring-왜-Filter에서-JWT-인증을-처리하는가)
-
-- [[Spring] REST API 통신 시 사용해야 할 HTTP 클라이언트 RestTemplate vs WebClient](https://velog.io/@tomy8964/Spring-REST-API-통신-시-사용해야-할-HTTP-클라이언트-RestTemplate-vs-WebClient)
-
- - [[Spring] MSA 아키텍처에서 Redis를 활용한 분산락 적용을 Spring AOP와 @Annotation을 활용해 재사용성 높게 적용하는 방법](https://velog.io/@tomy8964/MSA-아키텍처에서-Redis를-활용한-분산락-적용을-Spring-AOP를-사용해-재사용성-높게-적용하는-방법)
-
- - [[Spring] MSA 아키텍처의 백엔드 프로젝트 테스트 방법](https://velog.io/@tomy8964/Spring-MVC-패턴의-백엔드-프로젝트-테스트-방법)
-
- - [[Spring] OAuth Kakao, Git, Google 로그인 다형성을 활용하여 객체 지향적으로 리팩토링 하기](https://velog.io/@tomy8964/Spring-OAuthService-다형성을-활용하여-객체-지향적으로-리팩토링-하기)
-
-
- - [오라클 클라우드(db - kafka) ← → 로컬(druid - superset)](https://velog.io/@tomy8964/오라클-클라우드db-kafka-로컬druid-superset-8xjreh72)
-
-- [3티어 기반 HAProxy 및 Keepalived 적용](https://velog.io/@tomy8964/3티어-기반-HAProxy-및-Keepalived-적용)
-
-- [gitlab-jenkins CI / CD를 위한 시스템 아키텍처 구축실습](https://velog.io/@tomy8964/gitlab-jenkins-CI-CD를-위한-시스템-아키텍처-구축실습)
-
-## 💻 강의
-
-<details>
-<summary>자바</summary>
-  <div markdown="1">
-    
-[JAVA-공부-김영한의-자바-기본 수료증](https://www.inflearn.com/certificate/387741-332506-12355710)
-
-→ [JAVA-공부-김영한의-자바-기본 정리](https://velog.io/@tomy8964/series/JAVA-공부-김영한의-자바-기본)
-
-[JAVA-공부-김영한의-자바-중급-1편 수료증](https://www.inflearn.com/certificate/387741-333308-12738634)
-
-→ [JAVA-공부-김영한의-자바-중급-1편 정리](https://velog.io/@tomy8964/series/JAVA-공부-김영한의-자바-중급-1편)
-  </div>
-</details>
-
-<details>
-<summary>스프링</summary>
-  <div markdown="1">
-
-[Spring-강의-스프링-핵심-원리-기본편 수료증](https://www.inflearn.com/certificate/387741-325969-11003002)
-
-→ [Spring-강의-스프링-핵심-원리-기본편 정리](https://velog.io/@tomy8964/series/Spring-강의-스프링-핵심-원리-기본편)
-
-[Spring-강의-스프링-MVC-1편-백엔드-웹-개발-핵심-기술 수료증](https://www.inflearn.com/certificate/387741-326674-11003004)
-
-→ [Spring-강의-스프링-MVC-1편-백엔드-웹-개발-핵심-기술 정리](https://velog.io/@tomy8964/series/Spring-강의-스프링-MVC-1편-백엔드-웹-개발-핵심-기술)
-
-[Spring-강의-스프링-MVC-2편-백엔드-웹-개발-활용-기술 수료증](https://www.inflearn.com/certificate/387741-327260-11003001)
-
-→ [Spring-강의-스프링-MVC-2편-백엔드-웹-개발-활용-기술 정리](https://velog.io/@tomy8964/series/Spring-강의-스프링-MVC-2편-백엔드-웹-개발-활용-기술)
-
-[Spring-강의-스프링-DB-1편-데이터-접근-핵심-원리 수료증](https://www.inflearn.com/certificate/387741-328723-11003005)
-
-→ [Spring-강의-스프링-DB-1편-데이터-접근-핵심-원리 정리](https://velog.io/@tomy8964/series/Spring-강의-스프링-DB-1편-데이터-접근-핵심-원리)
-
-[Spring-강의-스프링-DB-2편-데이터-접근-활용-기술 수료증](https://www.inflearn.com/certificate/387741-328990-11003003)
-
-→ [Spring-강의-스프링-DB-2편-데이터-접근-활용-기술 정리](https://velog.io/@tomy8964/series/Spring-강의-스프링-DB-2편-데이터-접근-활용-기술)
-  </div>
-</details>
-
-<details>
-<summary>스프링 부트와 JPA</summary>
-  <div markdown="1">
-
-[스프링-부트와-JPA-강의-자바-ORM-표준-JPA-프로그래밍-기본편 수료증](https://www.inflearn.com/certificate/387741-324109-11571217)
-
-→ [스프링-부트와-JPA-강의-자바-ORM-표준-JPA-프로그래밍-기본편 정리](https://velog.io/@tomy8964/series/스프링-부트와-JPA-강의-자바-ORM-표준-JPA-프로그래밍-기본편)
-
-[스프링-부트와-JPA-스프링-부트와-JPA-활용1-웹-애플리케이션-개발 수료증](https://www.inflearn.com/certificate/387741-324119-11571216)
-
-→ [스프링-부트와-JPA-스프링-부트와-JPA-활용1-웹-애플리케이션-개발 정리](https://velog.io/@tomy8964/스프링-부트와-JPA-스프링-부트와-JPA-활용1-웹-애플리케이션-개발)
-
-[스프링-부트와-JPA-스프링-부트와-JPA-활용2-API-개발과-성능-최적화 수료증](https://www.inflearn.com/certificate/387741-324214-11571215)
-
-→ [스프링-부트와-JPA-스프링-부트와-JPA-활용2-API-개발과-성능-최적화 정리](https://velog.io/@tomy8964/스프링-부트와-JPA-스프링-부트와-JPA-활용2-API-개발과-성능-최적화)
-
-[스프링-부트와-JPA-스프링-데이터-JPA 수료증](https://www.inflearn.com/certificate/387741-324474-11571214)
-
-→ [스프링-부트와-JPA-스프링-데이터-JPA 정리](https://velog.io/@tomy8964/스프링-부트와-JPA-스프링-데이터-JPA)
-
-[스프링-부트와-JPA-Querydsl 수료증](https://www.inflearn.com/certificate/387741-324476-11571213)
-
-→ [스프링-부트와-JPA-Querydsl 정리](https://velog.io/@tomy8964/스프링-부트와-JPA-Querydsl)
-  </div>
-</details>
 
 ## 📫 How to reach me: [tomy8964@naver.com](mailto:tomy8964@naver.com)
 
