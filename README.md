@@ -61,6 +61,9 @@
 - **Terraform 기반 GKE IaC 전환**, 기존 인프라 코드 관리 체계화
 - **Prometheus·Grafana·EFK 통합 모니터링 구축**, 지표 기반 성능 분석 및 경보 설정
 
+**쿠버네티스 기반 관리형 Redis 서비스 개발** (2025.08)    
+
+**쿠버네티스 Deployment 실시간 모니터링 시스템 개발** (2025.01)
 ### 🚴‍♂️ 대외활동
 
 - [**신한투자증권 프로 디지털 아카데미 5기**](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1580&srchCategoryTypeCd=&courseMasterSeq=327&currentMenuId=900002001&utm_source=boottent&utm_medium=referral) (2024.09 ~ 2025.03 | 중간·최종 **최우수상**, **우수 수료자**)
@@ -69,8 +72,6 @@
 - [**Spring Cloud Config - AWS S3 searchPaths 기능 오픈소스**](https://github.com/spring-cloud/spring-cloud-config/issues/2812)
 - [**GitHub Programmers 랭킹 뱃지 자동 생성 오픈소스 운영**](https://github.com/tomy8964/Programmers_Badge_Generator)
 - [**가오리의 개발 블로그**](https://velog.io/@tomy8964/series) (인프런 김영한의 실전 자바 & Spring & SpringBoot + JPA 총 13개의 과정 수료)
-- 쿠버네티스 기반 관리형 Redis 서비스 개발 (2025.08)
-- 쿠버네티스 Deployment 실시간 모니터링 시스템 개발 (2025.01)
 
 ## 🌱 I’m Currently Learning  
 <p align="center">
@@ -78,10 +79,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&align=center"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&align=center">   
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">   
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">    
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">    
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
 </p>
 
 <p align="center">
@@ -99,7 +104,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
 </p>
 
 
