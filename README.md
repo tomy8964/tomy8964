@@ -29,44 +29,45 @@
 
 ## 👻 이력서
 
-[**블로그**](https://velog.io/@tomy8964/series) | [**GitHub**](https://github.com/tomy8964) | [**포트폴리오**](https://tomy8964.notion.site/portfolio) | **정보처리기사** 취득 | [**가천대학교 소프트웨어학과**](https://sw.gachon.ac.kr/cms/) 졸업 | **3.84**/4.5 | **3.9**/4.5
+[블로그](https://velog.io/@tomy8964/series) | [GitHub](https://github.com/tomy8964) | [포트폴리오](https://tomy8964.notion.site/portfolio) | 정보처리기사 취득 | [가천대학교 소프트웨어학과](https://sw.gachon.ac.kr/cms/) 졸업 | 3.84/4.5 | 3.9/4.5
 
-**Java**, **Spring Boot**, **JPA** | **MySQL**, **Redis** | **Jenkins**, ArgoCD | **Docker**, **k8s**, Prometheus, ELK |  AWS
+Java, Spring Boot, JPA | MySQL, Redis | Jenkins, ArgoCD | Docker, k8s, Prometheus, ELK |  AWS
 
 ### 👔 경력
 
 **신한투자증권 인턴** (ICT기획운영부 | 2025.04 ~ 05)
 
-- **NHN Cloud** 환경에서 **Kubernetes 기반 3-Tier → MSA 아키텍처 전환**, 고가용성 구조 설계 및 구현
-- **Helm + ArgoCD 기반 GitOps 파이프라인** 구축으로 배포 신뢰성 및 재현성 확보
-- 멀티 Kubernetes 클러스터 운영 + Prometheus, Grafana 멀티 클러스터 모니터링
+- NHN Cloud 환경에서 Kubernetes 기반 MSA 아키텍처 구축, 고가용성 구조 설계 및 구현
+- Helm + ArgoCD 기반 GitOps 파이프라인 구축으로 배포 신뢰성 및 재현성 확보
+- 멀티 Kubernetes 클러스터 운영 + Prometheus, Grafana 멀티 클러스터 모니터링 구축
 
 ### 🚀 프로젝트
 
-[**AWS MSA 기반 실시간 해외 공시 기반 트레이딩 시스템**](https://github.com/Pda-Final-Project) (2025.02 ~ 03 | **최우수상** 수상)
+[**AWS MSA 기반 실시간 해외 공시 기반 트레이딩 시스템**](https://github.com/Pda-Final-Project) (2025.02 ~ 03 | 최우수상 수상)
 
 - 공시 번역 파이프라인 최적화 (처리 속도 90% 단축, 10분 → 1분)
-- 대용량 공시 파일 저장 최적화 (S3 오프로딩)
-- EKS 없이 직접 Kubernetes 클러스터 구축
-- 초당 수백 건의 체결 데이터 처리 및 고가용성 인프라 설계
-- MySQL InnoDB Cluster 구축 및 읽기/쓰기 분리, 처리량 향상
+- 예산 제약으로 직접 k8s 클러스터, MySQL InnoDB Cluster, Redis Cluster 구축
+- 초당 수백 건의 체결 데이터 Redis Pub/Sub + SSE로 안정적 처리
+- ALB 전환으로 AWS API Gateway 504 오류 해소, 장기 연결 지원
 - Jenkins·GitHub·Docker·ArgoCD 기반 무중단 배포 파이프라인 구축
+- Prometheus·Grafana 모니터링 구축 및 알림 설정
 
 [**GCP MSA 기반 설문 관리•분석 시스템**](https://github.com/tomy8964/Swave_Survey_Update) (2023.10 ~ 2024.04)
 
-- 핵심 병목 제거로 **TPS 60.4 → 848.1 (14배)** 향상
-- **Redis 분산락** 적용으로 동시 응답 제어 및 데이터 일관성 확보
-- **JWT 인증을 Spring Filter 레벨**로 처리해 인증 구조 단순화
-- **테스트 커버리지 100% (147건)** 달성, 안정성 검증 자동화
-- **Terraform 기반 GKE IaC 전환**, 기존 인프라 코드 관리 체계화
-- **Prometheus·Grafana·EFK 통합 모니터링 구축**, 지표 기반 성능 분석 및 경보 설정
+- 핵심 병목 제거로 TPS 60.4 → 848.1 (14배) 향상
+- Redis 분산락을 AOP로 적용하여 동시 응답 제어 및 로직 분리
+- JWT 인증을 Spring Filter 레벨로 처리해 인증 구조 단순화
+- 테스트 커버리지 100% (147건) 달성, 안정성 검증 자동화
+- Terraform 기반 GKE IaC 전환, 기존 인프라 코드 관리 체계화
+- Prometheus·Grafana·EFK 통합 모니터링 구축, 지표 기반 성능 분석 및 경보 설정
 
-**쿠버네티스 기반 관리형 Redis 서비스 개발** (2025.08)    
+**쿠버네티스 기반 관리형 Redis 서비스 개발** (2025.08)
 
 **쿠버네티스 Deployment 실시간 모니터링 시스템 개발** (2025.01)
+
 ### 🚴‍♂️ 대외활동
 
-- [**신한투자증권 프로 디지털 아카데미 5기**](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1580&srchCategoryTypeCd=&courseMasterSeq=327&currentMenuId=900002001&utm_source=boottent&utm_medium=referral) (2024.09 ~ 2025.03 | 중간·최종 **최우수상**, **우수 수료자**)
+- [**신한투자증권 프로 디지털 아카데미 5기**](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1580&srchCategoryTypeCd=&courseMasterSeq=327&currentMenuId=900002001&utm_source=boottent&utm_medium=referral) (2024.09 ~ 2025.03 | 중간·최종 최우수상, 우수 수료자)
 - [**가천대학교 x 카카오엔터프라이즈 SW 아카데미 2기**](https://www.gachon.ac.kr/kor/1148/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29yJTJGNDgwJTJGODIyOTQlMkZhcnRjbFZpZXcuZG8lM0Y%3D) (2023.03 ~ 08)
 - [**가천대 x Elastic Observability 해커톤**](https://www.gachon.ac.kr/pr/1443/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGcHIlMkY0NjQlMkY4OTU5MSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 - [**Spring Cloud Config - AWS S3 searchPaths 기능 오픈소스**](https://github.com/spring-cloud/spring-cloud-config/issues/2812)
