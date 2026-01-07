@@ -29,7 +29,7 @@
 
 ## 👻 이력서
 
-[블로그](https://velog.io/@tomy8964/series) | [GitHub](https://github.com/tomy8964) | [포트폴리오](https://tomy8964.notion.site/portfolio) | 정보처리기사 취득 | [가천대학교 소프트웨어학과](https://sw.gachon.ac.kr/cms/) 졸업 | 3.84/4.5 | 3.9/4.5
+[블로그](https://velog.io/@tomy8964/series) | [GitHub](https://github.com/tomy8964) | [포트폴리오](https://tomy8964.notion.site/portfolio) | 정보처리기사 취득 | 리눅스마스터 2급 | [가천대학교 소프트웨어학과](https://sw.gachon.ac.kr/cms/) 졸업 | 3.84/4.5 | 3.9/4.5
 
 Java, Spring Boot, JPA | MySQL, Redis | Jenkins, ArgoCD | Docker, k8s, Prometheus, ELK |  AWS
 
