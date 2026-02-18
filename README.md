@@ -35,6 +35,8 @@ Java, Spring Boot, JPA | MySQL, Redis | Jenkins, ArgoCD | Docker, k8s, Prometheu
 
 ### 👔 경력
 
+**안랩** (연구인프라팀 | DevOps | 2026.02 ~)
+
 **신한투자증권 인턴** (ICT기획운영부 | 2025.04 ~ 05)
 
 - NHN Cloud 환경에서 Kubernetes 기반 MSA 아키텍처 구축, 고가용성 구조 설계 및 구현
