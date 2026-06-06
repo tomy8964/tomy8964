@@ -19,6 +19,7 @@
 
 축구와 컴퓨터 게임을 즐기며 냉면을 좋아하고 제 인생 영화는 어바웃 타임입니다. 
 
+---
 
 ## ❤️ Final Vocabulary
 
@@ -26,12 +27,15 @@
 
 최소한의 노력으로 최대한의 성과를 얻기 위해 항상 생각하며 노력합니다. 어떠한 일을 진행할 때, 선택지를 나열하고 그 중 가장 최대의 효율을 낼 수 있는 선택지를 선택합니다.
 
+---
 
 ## 👻 이력서
 
 [블로그](https://velog.io/@tomy8964/series) | [GitHub](https://github.com/tomy8964) | [포트폴리오](https://tomy8964.notion.site/portfolio) | 정보처리기사 취득 | 리눅스마스터 2급 | [가천대학교 소프트웨어학과](https://sw.gachon.ac.kr/cms/) 졸업 | 3.84/4.5 | 3.9/4.5
 
 Java, Spring Boot, JPA | MySQL, Redis | Jenkins, ArgoCD | Docker, k8s, Prometheus, ELK |  AWS
+
+---
 
 ### 👔 경력
 
@@ -42,6 +46,8 @@ Java, Spring Boot, JPA | MySQL, Redis | Jenkins, ArgoCD | Docker, k8s, Prometheu
 - NHN Cloud 환경에서 Kubernetes 기반 MSA 아키텍처 구축, 고가용성 구조 설계 및 구현
 - Helm + ArgoCD 기반 GitOps 파이프라인 구축으로 배포 신뢰성 및 재현성 확보
 - 멀티 Kubernetes 클러스터 운영 + Prometheus, Grafana 멀티 클러스터 모니터링 구축
+
+---
 
 ### 🚀 프로젝트
 
@@ -69,14 +75,33 @@ Java, Spring Boot, JPA | MySQL, Redis | Jenkins, ArgoCD | Docker, k8s, Prometheu
 **쿠버네티스 Deployment 실시간 모니터링 시스템 개발** (2025.01)
 - [쿠버네티스 Deployment 실시간 모니터링 시스템에서 부딪힌 문제와 해결 과정](https://velog.io/@tomy8964/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-Deployment-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C-%EB%B6%80%EB%94%AA%ED%9E%8C-%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%95%B4%EA%B2%B0-%EA%B3%BC%EC%A0%95)
 
+---
+
+### 🛩️ 오픈소스
+
+*   **Spring Cloud Config | AWS S3 `searchPaths` 와일드카드 지원 (신규 기능 구현)**
+    *   **Links:** [Issue #2812](https://github.com/spring-cloud/spring-cloud-config/issues/2812) ｜ [PR #2958](https://github.com/spring-cloud/spring-cloud-config/pull/2958)
+    *   **Details:** S3 백엔드에 Git 방식과 동일한 `searchPaths` 및 와일드카드(`*`, 플레이스홀더) 지원 기능을 신규 추가했습니다. 이를 통해 사용자가 기존 파일명이나 폴더 구조를 변경할 필요 없이, 기존 Git 기반 설정을 S3로 매끄럽게 마이그레이션할 수 있도록 환경을 개선했습니다.
+
+*   **kubernetes-mixin | `KubePodNotReady` 알림 규칙 개선 및 오탐 방지**
+    *   **Links:** [Issue #2637](https://github.com/prometheus-operator/kube-prometheus/issues/2637) ｜ [PR #1239](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/1239) ｜ [HOTFIX PR #1243](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/1243)
+    *   **Details:** `KubePodNotReady` 알림이 Readiness Probe 실패로 인해 실질적인 서비스가 불가능한 Pod를 감지하지 못하는 문제를 해결하기 위해 메트릭 조건을 보강했습니다. 또한, 배포 후 발견된 정상 Pod에 대한 오탐(False Positive) 이슈를 핫픽스로 신속하게 수정하여 모니터링 알림의 신뢰도를 높였습니다.
+
+*   **Backstage | 신규 프론트엔드 시스템 컴포넌트 Export 구조 개선**
+    *   **Links:** [Issue #34456](https://github.com/backstage/backstage/issues/34456) ｜ [PR #34475](https://github.com/backstage/backstage/pull/34475)
+    *   **Details:** 신규 프론트엔드 시스템(Alpha) 환경에서 `ApiExplorerPage`가 레거시 UI를 내보내어 커스터마이징을 방해하던 문제를 해결했습니다. 올바른 컴포넌트가 Export 되도록 구조를 수정하여, 사용자가 최신 헤더 디자인으로 페이지를 자유롭게 커스텀할 수 있도록 개선했습니다.
+
+---
+
 ### 🚴‍♂️ 대외활동
 
 - [**신한투자증권 프로 디지털 아카데미 5기**](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1580&srchCategoryTypeCd=&courseMasterSeq=327&currentMenuId=900002001&utm_source=boottent&utm_medium=referral) (2024.09 ~ 2025.03 | 중간·최종 최우수상, 우수 수료자)
 - [**가천대학교 x 카카오엔터프라이즈 SW 아카데미 2기**](https://www.gachon.ac.kr/kor/1148/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29yJTJGNDgwJTJGODIyOTQlMkZhcnRjbFZpZXcuZG8lM0Y%3D) (2023.03 ~ 08)
 - [**가천대 x Elastic Observability 해커톤**](https://www.gachon.ac.kr/pr/1443/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGcHIlMkY0NjQlMkY4OTU5MSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
-- [**Spring Cloud Config - AWS S3 searchPaths 기능 오픈소스**](https://github.com/spring-cloud/spring-cloud-config/issues/2812)
 - [**GitHub Programmers 랭킹 뱃지 자동 생성 오픈소스 운영**](https://github.com/tomy8964/Programmers_Badge_Generator)
 - [**가오리의 개발 블로그**](https://velog.io/@tomy8964/series) (인프런 김영한의 실전 자바 & Spring & SpringBoot + JPA 총 13개의 과정 수료)
+
+---
 
 ## 🌱 I’m Currently Learning  
 <p align="center">
