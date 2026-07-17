@@ -81,15 +81,13 @@ Java, Spring Boot, JPA | MySQL, Redis | Jenkins, ArgoCD | Docker, k8s, Prometheu
 
 *   **Spring Cloud Config | AWS S3 `searchPaths` 와일드카드 지원 (신규 기능 구현)**
     *   **Links:** [Issue #2812](https://github.com/spring-cloud/spring-cloud-config/issues/2812) ｜ [PR #2958](https://github.com/spring-cloud/spring-cloud-config/pull/2958)
+    *   **블로그:** [Spring Cloud Config 컨트리뷰트 - AWS S3 searchPaths 구현](https://velog.io/@tomy8964/Spring-Cloud-Config-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8-AWS-S3-searchPaths-%EA%B5%AC%ED%98%84)
     *   **Details:** S3 백엔드에 Git 방식과 동일한 `searchPaths` 및 와일드카드(`*`, 플레이스홀더) 지원 기능을 신규 추가했습니다. 이를 통해 사용자가 기존 파일명이나 폴더 구조를 변경할 필요 없이, 기존 Git 기반 설정을 S3로 매끄럽게 마이그레이션할 수 있도록 환경을 개선했습니다.
 
 *   **kubernetes-mixin | `KubePodNotReady` 알림 규칙 개선 및 오탐 방지**
     *   **Links:** [Issue #2637](https://github.com/prometheus-operator/kube-prometheus/issues/2637) ｜ [PR #1239](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/1239) ｜ [HOTFIX PR #1243](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/1243)
+    *   **블로그:** [kubernetes-mixin 컨트리뷰트 - KubePodNotReady](https://velog.io/@tomy8964/kubernetes-mixin-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8-KubePodNotReady)
     *   **Details:** `KubePodNotReady` 알림이 Readiness Probe 실패로 인해 실질적인 서비스가 불가능한 Pod를 감지하지 못하는 문제를 해결하기 위해 메트릭 조건을 보강했습니다. 또한, 배포 후 발견된 정상 Pod에 대한 오탐(False Positive) 이슈를 핫픽스로 신속하게 수정하여 모니터링 알림의 신뢰도를 높였습니다.
-
-*   **Backstage | 신규 프론트엔드 시스템 컴포넌트 Export 구조 개선**
-    *   **Links:** [Issue #34456](https://github.com/backstage/backstage/issues/34456) ｜ [PR #34475](https://github.com/backstage/backstage/pull/34475)
-    *   **Details:** 신규 프론트엔드 시스템(Alpha) 환경에서 `ApiExplorerPage`가 레거시 UI를 내보내어 커스터마이징을 방해하던 문제를 해결했습니다. 올바른 컴포넌트가 Export 되도록 구조를 수정하여, 사용자가 최신 헤더 디자인으로 페이지를 자유롭게 커스텀할 수 있도록 개선했습니다.
 
 ---
 
