@@ -39,7 +39,12 @@ Java, Spring Boot, JPA | MySQL, Redis | Jenkins, ArgoCD | Docker, k8s, Prometheu
 
 ### 👔 경력
 
-**안랩** (연구인프라팀 | DevOps | 2026.02 ~)
+**안랩** (연구인프라팀 | 2026.02 ~)
+
+- HolmesGPT 기반 AIOps 시스템 구축: 로그, 메트릭 상관 분석으로 MTTR 75% 단축 (20분 ➔ 5분)
+- DRBD 9 + Pacemaker 기반 온프레미스 HA 스토리지 클러스터 안정화 (복구 시간 2분으로 단축)
+- 사내 연구 인프라(Jira, Jenkins, Artifactory, Crowd) 및 vSphere/Proxmox 가상화 환경 운영
+- Ansible 기반 폐쇄망 k8s 클러스터 자동 프로비저닝 개발 (구축 공수 90% 절감, 수일 ➔ 10분)
 
 **신한투자증권 인턴** (ICT기획운영부 | 2025.04 ~ 05)
 
@@ -71,9 +76,13 @@ Java, Spring Boot, JPA | MySQL, Redis | Jenkins, ArgoCD | Docker, k8s, Prometheu
 
 [**쿠버네티스 기반 관리형 Redis 서비스 개발**](https://github.com/tomy8964/Redis-Operator) (2025.08)
 - [쿠버네티스 Operator로 구현하는 나만의 관리형 Redis 서비스 개발기](https://velog.io/@tomy8964/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC%ED%98%95-Redis-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C)
+- Java Operator SDK 기반 Kubernetes Custom Controller(Operator) 및 CRD 설계·개발
+- Redis Master-Replica 클러스터 자동 프로비저닝, 오프셋 기반 무중단 Failover 및 자율 치유 구현
 
 [**쿠버네티스 Deployment 실시간 모니터링 시스템 개발**](https://github.com/tomy8964/k8s-deployment-monitoring) (2025.01)
 - [쿠버네티스 Deployment 실시간 모니터링 시스템에서 부딪힌 문제와 해결 과정](https://velog.io/@tomy8964/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-Deployment-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C-%EB%B6%80%EB%94%AA%ED%9E%8C-%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%95%B4%EA%B2%B0-%EA%B3%BC%EC%A0%95)
+- K8s Watch API + SSE 기반 클러스터 리소스 변경 이벤트 실시간 감지 및 1:N 스트리밍 아키텍처 구축
+- Namespace별 Watch 세션 공유(`putIfAbsent`) 및 스레드 풀 격리로 API 서버 부하 및 연결 누수 방지
 
 ---
 
@@ -94,10 +103,10 @@ Java, Spring Boot, JPA | MySQL, Redis | Jenkins, ArgoCD | Docker, k8s, Prometheu
 ### 🚴‍♂️ 대외활동
 
 - [**신한투자증권 프로 디지털 아카데미 5기**](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1580&srchCategoryTypeCd=&courseMasterSeq=327&currentMenuId=900002001&utm_source=boottent&utm_medium=referral) (2024.09 ~ 2025.03 | 중간·최종 최우수상, 우수 수료자)
-- [**가천대학교 x 카카오엔터프라이즈 SW 아카데미 2기**](https://www.gachon.ac.kr/kor/1148/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29yJTJGNDgwJTJGODIyOTQlMkZhcnRjbFZpZXcuZG8lM0Y%3D) (2023.03 ~ 08)
-- [**가천대 x Elastic Observability 해커톤**](https://www.gachon.ac.kr/pr/1443/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGcHIlMkY0NjQlMkY4OTU5MSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
+- [**가천대학교 x 카카오엔터프라이즈 SW 아카데미 2기**](https://www.gachon.ac.kr/kor/1148/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29yJTJGNDgwJTJGODIyOTQlMkZhcnRjbFZpZXcuZG8lM0Y%3D) (2023.03 ~ 08 | 클라우드 MSA 과정 수료)
+- [**가천대 x Elastic Observability 해커톤**](https://www.gachon.ac.kr/pr/1443/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGcHIlMkY0NjQlMkY4OTU5MSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) (2023.08 | Elastic APM 분산 추적 및 인프라 병목 분석)
 - [**GitHub Programmers 랭킹 뱃지 자동 생성 오픈소스 운영**](https://github.com/tomy8964/Programmers_Badge_Generator)
-- [**가오리의 개발 블로그**](https://velog.io/@tomy8964/series) (인프런 김영한의 실전 자바 & Spring & SpringBoot + JPA 총 13개의 과정 수료)
+- [**가오리의 개발 블로그**](https://velog.io/@tomy8964/series) (인프라 고가용성, K8s, 트러블슈팅 등 300+편 연재)
 
 ---
 
